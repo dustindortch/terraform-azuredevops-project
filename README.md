@@ -44,6 +44,6 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_repository_names"></a> [repository\_names](#output\_repository\_names) | n/a |
-| <a name="output_repository_urls"></a> [repository\_urls](#output\_repository\_urls) | n/a |
+| <a name="output_project"></a> [project](#output\_project) | n/a |
+| <a name="output_repositories"></a> [repositories](#output\_repositories) | n/a |
 <!-- END_TF_DOCS -->
